@@ -1,7 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-#define MAX_VALUE 1000000007;
+#define MAX_VALUE 1000007;
 
 //Construction of segmented tree
 void ConstructTree(int SegTree[], int input[], int low, int high, int root)
